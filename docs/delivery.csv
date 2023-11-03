@@ -1,0 +1,101 @@
+package,customer_id,ordered,delivered,payment,sold,first,last,street,city,state,zip_code,design
+P1,1,2020-08-07 6:53:42,2020-08-15 20:43:12,mastercard,1396.85,Jody,Willatts,61293 Karstens Avenue,Miami,Florida,33164,416
+P2,2,2021-10-11 11:15:53,2021-10-22 15:30:58,mastercard,1741.29,Ginger,McGinny,107 Golf View Road,Orange,California,92668,293
+P3,3,2023-05-04 20:33:28,2023-05-14 23:01:45,mastercard,476.13,Raymund,Postlethwaite,787 Kedzie Place,West Palm Beach,Florida,33411,888
+P4,4,2021-06-09 16:54:13,2021-06-12 0:22:52,mastercard,208.87,Amerigo,Glass,922 Fordem Street,Anaheim,California,92825,873
+P5,5,2022-10-16 9:39:00,2022-10-20 16:56:17,mastercard,900.88,Therese,Christmas,5977 Rockefeller Crossing,Homestead,Florida,33034,627
+P6,6,2023-08-13 4:55:15,2023-08-23 15:22:25,mastercard,742.84,Lizette,Manjin,3727 High Crossing Road,Pensacola,Florida,32511,975
+P7,7,2021-12-15 3:37:40,2021-12-22 22:44:41,visa,1720.9,Florella,Goodband,9830 Delladonna Point,Saint Augustine,Florida,32092,271
+P8,8,2022-02-02 0:28:49,2022-02-05 22:50:19,mastercard,857.19,Garrot,Reeman,671 Kim Junction,Riverside,California,92505,157
+P9,9,2021-06-07 14:30:50,2021-06-20 16:26:26,mastercard,1792.4,Matilde,Skottle,29 Hauk Circle,Fort Lauderdale,Florida,33330,244
+P10,10,2022-01-31 17:21:08,2022-02-06 23:23:37,visa,1660.81,Gaile,Markie,5614 Melody Court,Fort Myers,Florida,33913,426
+P11,11,2021-01-19 12:58:15,2021-01-29 13:10:03,mastercard,1688.96,Tadeo,Flacke,95393 Almo Alley,Minneapolis,Minnesota,55441,691
+P12,12,2022-07-16 9:33:19,2022-07-20 7:51:14,mastercard,511.07,Lisabeth,Gunning,6861 Utah Road,Los Angeles,California,90025,950
+P13,13,2020-08-18 6:13:44,2020-08-28 6:40:12,mastercard,2929.46,Goddart,Root,6 Milwaukee Court,Augusta,Georgia,30911,230
+P14,14,2022-11-29 13:43:14,2022-12-05 23:59:07,mastercard,2736.41,Kinsley,Carnier,26817 Rowland Plaza,Miami,Florida,33190,599
+P15,15,2023-03-16 5:34:50,2023-03-20 3:06:40,mastercard,1928.26,Doralin,Geeraert,55 Holy Cross Terrace,San Francisco,California,94169,536
+P16,16,2021-02-08 17:00:34,2021-02-26 10:36:26,mastercard,2286.68,Rea,Ghelardoni,27889 Melby Place,Minneapolis,Minnesota,55487,241
+P17,17,2020-07-17 19:51:07,2020-08-27 2:25:04,mastercard,2806.21,Branden,Huygens,389 Arapahoe Lane,Milwaukee,Wisconsin,53234,513
+P18,18,2021-08-26 8:35:36,2021-08-30 11:02:18,visa,2640.84,Ibrahim,Tarver,8 Sycamore Center,Los Angeles,California,90076,150
+P19,19,2023-06-08 2:43:58,2023-06-16 17:13:41,mastercard,2523.24,Umberto,Ferroni,937 Brentwood Street,Miami,Florida,33180,735
+P20,20,2021-04-08 22:07:06,2021-04-18 6:12:37,mastercard,1484.93,Licha,Rantoul,90 Sachs Junction,Santa Ana,California,92725,272
+P21,21,2022-07-06 11:27:41,2022-07-12 1:33:08,mastercard,2154.31,Clayton,Bolte,304 Nobel Parkway,Shreveport,Louisiana,71105,961
+P22,22,2021-08-24 18:42:08,2021-09-01 6:36:27,mastercard,1843.72,Clemence,Rosenbush,474 Spohn Pass,Tampa,Florida,33625,249
+P23,23,2023-01-24 4:50:17,2023-02-04 17:05:50,mastercard,839.93,Thomasine,Grimstead,14095 Alpine Street,Saint Paul,Minnesota,55127,879
+P24,24,2022-07-21 16:22:19,2022-07-30 1:37:59,mastercard,596.08,Linnea,Bridat,6826 Sherman Hill,Alexandria,Louisiana,71307,661
+P25,25,2021-12-13 6:46:25,2021-12-23 6:16:55,mastercard,37.19,Augustin,Grennan,3286 Becker Way,Birmingham,Alabama,35290,454
+P26,26,2021-06-12 14:04:45,2021-06-24 18:17:10,mastercard,2140.07,Perrine,McMorran,652 Shopko Circle,Pompano Beach,Florida,33069,916
+P27,27,2020-06-29 7:58:08,2020-07-23 21:35:47,mastercard,1275.53,Mora,Crowder,97 Independence Park,New Orleans,Louisiana,70124,473
+P28,28,2020-12-31 5:06:22,2020-01-15 4:19:51,visa,2588.41,Maria,Kemm,4 Moose Plaza,Los Angeles,California,90060,931
+P29,29,2023-09-15 8:18:39,2023-09-28 9:55:32,mastercard,663.01,Thomas,Pickford,33034 Cherokee Lane,Miami,Florida,33180,346
+P30,30,2023-09-18 6:48:34,2023-09-28 7:33:47,mastercard,2479.19,Alisander,Bridgnell,753 Scott Road,Atlanta,Georgia,30386,860
+P31,31,2022-12-26 9:37:45,2023-01-15 7:11:46,mastercard,2847.29,Sebastian,Skellington,6 Mayer Lane,Inglewood,California,90305,564
+P32,32,2023-05-18 14:48:12,2023-05-30 21:34:47,mastercard,1983.52,Corty,Ambrogio,41321 Forest Street,Troy,Michigan,48098,479
+P33,33,2020-12-11 13:32:26,2020-12-23 20:21:17,mastercard,439.9,Harriott,Ingon,886 Eastlawn Alley,San Francisco,California,94154,827
+P34,34,2022-02-12 22:05:06,2022-02-24 3:14:06,mastercard,2476.18,Piper,Cunnow,85 Helena Pass,San Diego,California,92160,423
+P35,35,2020-07-28 9:24:52,2020-08-08 22:03:08,mastercard,2537.93,Bruce,Colebourne,6510 Kenwood Road,San Francisco,California,94126,469
+P36,36,2020-02-24 18:08:34,2020-03-04 4:52:10,mastercard,2771.22,Kylen,Handrahan,479 Buena Vista Alley,Atlanta,Georgia,30311,515
+P37,37,2021-03-06 13:31:09,2021-03-16 5:54:53,mastercard,2751.36,Mychal,Brandi,8 Debra Point,Tampa,Florida,33647,153
+P38,38,2023-02-18 8:38:45,2023-08-30 10:35:28,mastercard,815.57,Penni,Pawlyn,215 Mockingbird Drive,Muskegon,Michigan,49444,102
+P39,39,2020-08-07 10:40:21,2020-08-18 3:48:42,mastercard,1939.43,Sara,Enberton,48 Kapple Lane,Largo,Florida,34643,127
+P40,40,2020-06-03 4:19:21,2020-06-16 8:14:59,mastercard,63.65,Pierson,Ingleby,557 Lakewood Trail,South Lake Tahoe,California,96154,749
+P41,41,2021-10-01 17:29:10,2021-10-11 7:25:48,mastercard,1207.62,Adelle,Linke,74 Prairieview Crossing,Jacksonville,Florida,32220,897
+P42,42,2020-10-28 8:36:45,2020-11-04 12:11:37,mastercard,1754.99,Field,Lashley,88377 Towne Drive,Sacramento,California,95818,603
+P43,43,2023-05-13 13:29:50,2023-05-18 15:18:38,mastercard,2011.21,Annalee,Attwell,6094 Magdeline Street,Saint Paul,Minnesota,55108,381
+P44,44,2022-02-11 11:46:50,2022-02-22 20:45:54,mastercard,760.22,Cayla,Gentile,3 Mccormick Place,San Diego,California,92160,909
+P45,45,2022-01-30 5:14:54,2022-02-09 3:54:59,mastercard,2074.22,Miranda,Dunhill,47 Springs Crossing,Tallahassee,Florida,32309,557
+P46,46,2023-08-22 12:12:10,2023-08-28 21:03:45,mastercard,1831.16,Hobart,Glazier,1 Truax Junction,Oakland,California,94611,359
+P47,47,2022-10-13 19:18:09,2022-10-20 23:21:08,mastercard,2819.96,Verna,Lelliott,428 Maple Place,San Jose,California,95150,589
+P48,48,2023-07-29 13:56:19,2023-08-05 22:13:07,mastercard,1995.28,Harbert,Riddoch,1230 Portage Parkway,Montgomery,Alabama,36119,785
+P49,49,2020-06-23 0:54:35,2020-07-01 12:24:18,mastercard,560.02,Kara,Kanter,284 Anderson Pass,San Luis Obispo,California,93407,368
+P50,50,2022-12-27 10:32:15,2023-01-08 21:51:07,mastercard,1432.66,Christean,Sanchez,315 Bashford Street,San Diego,California,92110,626
+P51,51,2020-09-11 2:30:33,2020-09-22 13:08:20,mastercard,2687.19,Marin,Dorbon,870 Anzinger Point,Atlanta,Georgia,30336,178
+P52,52,2021-01-12 15:12:51,2021-01-18 20:27:35,mastercard,1173.13,Tadeas,Lumby,1937 Graceland Plaza,Detroit,Michigan,48295,648
+P53,53,2022-09-21 21:31:27,2022-10-01 15:48:33,mastercard,2553.77,Chevy,Phillcox,2 South Parkway,Los Angeles,California,90030,985
+P54,54,2021-01-21 3:05:15,2021-02-01 23:51:57,visa,2467.52,Obediah,McVeighty,93995 Kipling Circle,Santa Clara,California,95054,378
+P55,55,2022-03-06 23:10:11,2022-03-12 11:03:12,mastercard,604.01,Oriana,Neathway,528 Redwing Trail,Birmingham,Alabama,35231,175
+P56,56,2020-03-22 22:45:21,2020-08-11 7:46:38,mastercard,649.81,Aloysius,Bulmer,597 Florence Court,Lansing,Michigan,48930,773
+P57,57,2022-05-09 20:27:04,2022-05-19 4:45:56,mastercard,2804.48,Kara-lynn,Longfoot,7 Karstens Place,Fresno,California,93715,569
+P58,58,2022-12-25 4:01:15,2023-01-05 23:51:29,mastercard,1000.12,Shay,Schoroder,105 Mariners Cove Street,Tampa,Florida,33605,455
+P59,59,2020-12-21 14:19:53,2021-01-05 14:15:38,mastercard,1689.1,Laetitia,Guerra,5 Jenna Alley,Tallahassee,Florida,32304,137
+P60,60,2020-03-06 13:27:22,2020-03-11 20:35:01,mastercard,1748.35,Claretta,Lumbly,62840 Forest Avenue,Troy,Michigan,48098,540
+P61,61,2020-03-25 19:54:17,2020-04-05 23:10:13,mastercard,2413.32,Florry,Yeowell,81 Bunting Terrace,Atlanta,Georgia,30356,762
+P62,62,2022-10-25 22:10:54,2022-11-02 6:25:32,visa,2956.71,Petey,Bysshe,33203 Sherman Drive,Largo,Florida,34643,152
+P63,63,2020-12-04 3:28:22,2020-12-23 23:58:00,mastercard,1385.89,Rustin,Goodrich,6432 Jenna Plaza,Birmingham,Alabama,35244,787
+P64,64,2021-09-11 12:09:05,2021-09-25 7:17:19,mastercard,1061.04,Jacquetta,Isham,472 Hazelcrest Place,Detroit,Michigan,48242,323
+P65,65,2020-02-08 11:34:58,2020-02-15 1:18:33,mastercard,2993.22,Merna,Shakesby,77229 2nd Park,Young America,Minnesota,55564,404
+P66,66,2022-10-06 11:41:58,2022-10-16 8:51:42,mastercard,2807,Doy,McCathy,713 Di Loreto Place,Berkeley,California,94712,165
+P67,67,2022-03-13 14:02:33,2022-03-23 0:05:07,mastercard,50.64,Brittaney,MacTrusty,6661 Bay Crossing,Montgomery,Alabama,36114,740
+P68,68,2023-05-05 5:11:26,2023-05-10 15:49:43,mastercard,384.91,Tersina,Youd,40 American Ash Street,San Jose,California,95155,334
+P69,69,2022-08-18 14:05:50,2022-08-28 14:16:46,mastercard,948.79,Kiley,Mountstephen,378 Elmside Terrace,New Orleans,Louisiana,70183,958
+P70,70,2023-05-28 22:25:31,2023-06-05 19:28:26,mastercard,2333.52,Johnath,Fruchter,8728 Kenwood Park,West Palm Beach,Florida,33421,240
+P71,71,2020-07-12 19:10:13,2020-07-24 18:23:54,mastercard,2329.78,Kare,Michele,563 Thompson Junction,Minneapolis,Minnesota,55436,775
+P72,72,2021-10-27 23:14:16,2021-11-05 13:48:30,mastercard,2565.2,Fonz,Fricke,42 Autumn Leaf Street,Minneapolis,Minnesota,55402,895
+P73,73,2021-07-17 7:31:59,2021-07-29 21:21:45,mastercard,1336.05,Cherice,Eliasen,13263 Acker Terrace,New Orleans,Louisiana,70154,709
+P74,74,2020-08-30 8:02:28,2020-09-15 12:49:29,mastercard,959.13,Ber,Capehorn,757 Hooker Place,Gainesville,Florida,32627,808
+P75,75,2022-02-15 19:14:18,2022-02-25 10:02:54,mastercard,2595.36,Jolanna,Denmor,492 Arlingville Drive,Jupiter,Florida,34981,261
+P76,76,2022-01-28 12:13:21,2023-02-06 3:05:12,mastercard,227.95,Jehu,Durman,58335 Pawling Way,Portland,Oregon,97232,436
+P77,77,2020-06-19 20:08:13,2020-06-30 11:37:01,mastercard,2398.94,Even,Halm,57 Becker Point,Fort Myers,Florida,33906,118
+P78,78,2020-05-24 22:17:18,2020-06-02 16:25:10,mastercard,2965.18,Juliane,Birtle,87 Manley Parkway,Fresno,California,93786,369
+P79,79,2020-12-29 12:45:00,2020-01-15 18:46:23,mastercard,999.56,Cyrus,Milland,91 Harper Road,Carlsbad,California,92013,203
+P80,80,2022-12-28 5:37:25,2023-01-15 3:28:34,visa,264.05,Jeffrey,Mintram,3 Lakewood Street,Sacramento,California,94297,799
+P81,81,2021-08-06 18:17:16,2021-08-16 11:53:52,mastercard,698.82,Canton,Fowler,472 Bague Place,Troy,Michigan,48242,348
+P82,82,2023-01-02 8:06:22,2023-01-08 22:31:36,mastercard,509.2,Chryste,Whittock,5580 Paget Crossing,New Orleans,Louisiana,70160,602
+P83,83,2020-07-12 5:35:51,2020-07-24 7:27:16,mastercard,1483.69,Andie,Grishechkin,26 Fordem Place,Huntsville,Alabama,35815,605
+P84,84,2023-03-22 4:28:44,2023-03-30 8:38:54,mastercard,877.86,Chelsea,McAnulty,66 Roxbury Point,Fresno,California,93709,389
+P85,85,2022-06-29 7:59:09,2022-07-08 16:06:56,mastercard,2064.23,Rivkah,Ivushkin,5031 Buena Vista Junction,Saint Paul,Minnesota,55188,113
+P86,86,2022-11-03 1:02:59,2022-11-13 15:17:58,visa,2985.24,Vittorio,Pavitt,157 Messerschmidt Way,Naples,Florida,34108,539
+P87,87,2020-04-27 22:47:06,2020-05-05 14:28:52,mastercard,1373.74,Hana,Borless,7495 Almo Trail,Flint,Michigan,48505,980
+P88,88,2022-08-28 1:36:35,2022-09-08 3:55:27,mastercard,2312.97,Calv,Macklam,76 South Point,Troy,Michigan,48098,766
+P89,89,2020-02-15 9:17:56,2020-02-27 15:54:02,mastercard,106.53,Celie,Di Pietro,165 Green Ridge Center,Baton Rouge,Louisiana,70805,883
+P90,90,2022-04-11 4:28:46,2022-04-22 5:58:00,mastercard,1584.43,Katina,Bentke,5357 Roxbury Hill,Orlando,Florida,32803,466
+P91,91,2021-05-02 18:36:02,2021-05-12 21:04:46,mastercard,132.39,Koren,Lillgard,74 Chinook Park,Milwaukee,Wisconsin,53263,756
+P92,92,2021-04-10 14:07:25,2021-04-20 23:17:16,mastercard,1136.04,Shaina,Snoxell,50428 Mallard Center,Portland,Oregon,97286,457
+P93,93,2023-08-08 13:34:01,2023-08-18 14:15:44,visa,52.56,Darryl,De Giorgio,78 Kingsford Point,Orlando,Florida,32891,838
+P94,94,2020-01-13 2:09:16,2020-01-23 10:56:34,mastercard,132.34,Scottie,Alliband,98 Iowa Hill,Shreveport,Louisiana,71166,936
+P95,95,2021-07-15 9:27:38,2021-08-01 21:57:09,mastercard,2195.64,Kayle,Lowfill,8 Sauthoff Place,Warren,Michigan,48092,645
+P96,96,2021-11-02 15:49:11,2021-11-22 0:01:26,mastercard,1275.94,Marylinda,Kemmett,56246 Schlimgen Circle,Pinellas Park,Florida,34665,376
+P97,97,2020-09-23 10:08:33,2020-10-15 11:15:00,mastercard,899.91,Matias,Muckle,29 8th Lane,Fresno,California,93709,289
+P98,98,2020-10-28 20:33:35,2020-11-08 8:49:34,mastercard,1071.91,Tara,Mackle,395 Undercap Crossing,Bradenton,Florida,34205,831
+P99,99,2021-05-24 4:07:58,2021-06-02 23:22:27,mastercard,1236.24,Dion,Penhaligon,63 Garrison Way,Pensacola,Florida,32505,214
+P100,100,2023-06-14 13:22:23,2023-06-20 19:14:42,visa,2566.11,Grannie,Maunton,76214 Graceland Way,Columbus,Georgia,31914,301

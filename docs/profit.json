@@ -1,0 +1,1002 @@
+[
+ {
+   "customer_id": 1,
+   "package": "P1",
+   "design": 416,
+   "sold": 1396.85,
+   "payment": "mastercard",
+   "bought": 250,
+   "sku": null,
+   "brand": "NK"
+ },
+ {
+   "customer_id": 2,
+   "package": "P2",
+   "design": 293,
+   "sold": 1741.29,
+   "payment": "mastercard",
+   "bought": 250,
+   "sku": null,
+   "brand": "NK"
+ },
+ {
+   "customer_id": 3,
+   "package": "P3",
+   "design": 888,
+   "sold": 476.13,
+   "payment": "mastercard",
+   "bought": 250,
+   "sku": null,
+   "brand": "NK"
+ },
+ {
+   "customer_id": 4,
+   "package": "P4",
+   "design": 873,
+   "sold": 208.87,
+   "payment": "mastercard",
+   "bought": 50.23,
+   "sku": 11003234,
+   "brand": ""
+ },
+ {
+   "customer_id": 5,
+   "package": "P5",
+   "design": 627,
+   "sold": 900.88,
+   "payment": "mastercard",
+   "bought": 250,
+   "sku": null,
+   "brand": "NK"
+ },
+ {
+   "customer_id": 6,
+   "package": "P6",
+   "design": 975,
+   "sold": 742.84,
+   "payment": "mastercard",
+   "bought": 250,
+   "sku": null,
+   "brand": "NK"
+ },
+ {
+   "customer_id": 7,
+   "package": "P7",
+   "design": 271,
+   "sold": 1720.9,
+   "payment": "visa",
+   "bought": 250,
+   "sku": null,
+   "brand": "NK"
+ },
+ {
+   "customer_id": 8,
+   "package": "P8",
+   "design": 157,
+   "sold": 857.19,
+   "payment": "mastercard",
+   "bought": 250,
+   "sku": null,
+   "brand": "NK"
+ },
+ {
+   "customer_id": 9,
+   "package": "P9",
+   "design": 244,
+   "sold": 1792.4,
+   "payment": "mastercard",
+   "bought": 250,
+   "sku": null,
+   "brand": "NK"
+ },
+ {
+   "customer_id": 10,
+   "package": "P10",
+   "design": 426,
+   "sold": 1660.81,
+   "payment": "visa",
+   "bought": 250,
+   "sku": null,
+   "brand": "NK"
+ },
+ {
+   "customer_id": 11,
+   "package": "P11",
+   "design": 691,
+   "sold": 1688.96,
+   "payment": "mastercard",
+   "bought": 250,
+   "sku": null,
+   "brand": "NK"
+ },
+ {
+   "customer_id": 12,
+   "package": "P12",
+   "design": 950,
+   "sold": 511.07,
+   "payment": "mastercard",
+   "bought": 250,
+   "sku": null,
+   "brand": "NK"
+ },
+ {
+   "customer_id": 13,
+   "package": "P13",
+   "design": 230,
+   "sold": 2929.46,
+   "payment": "mastercard",
+   "bought": 1000,
+   "sku": null,
+   "brand": "LV"
+ },
+ {
+   "customer_id": 14,
+   "package": "P14",
+   "design": 599,
+   "sold": 2736.41,
+   "payment": "mastercard",
+   "bought": 500,
+   "sku": null,
+   "brand": "GGG"
+ },
+ {
+   "customer_id": 15,
+   "package": "P15",
+   "design": 536,
+   "sold": 1928.26,
+   "payment": "mastercard",
+   "bought": 250,
+   "sku": null,
+   "brand": "NK"
+ },
+ {
+   "customer_id": 16,
+   "package": "P16",
+   "design": 241,
+   "sold": 2286.68,
+   "payment": "mastercard",
+   "bought": 500,
+   "sku": null,
+   "brand": "GGG"
+ },
+ {
+   "customer_id": 17,
+   "package": "P17",
+   "design": 513,
+   "sold": 2806.21,
+   "payment": "mastercard",
+   "bought": 1000,
+   "sku": null,
+   "brand": "LV"
+ },
+ {
+   "customer_id": 18,
+   "package": "P18",
+   "design": 150,
+   "sold": 2640.84,
+   "payment": "visa",
+   "bought": 500,
+   "sku": null,
+   "brand": "GGG"
+ },
+ {
+   "customer_id": 19,
+   "package": "P19",
+   "design": 735,
+   "sold": 2523.24,
+   "payment": "mastercard",
+   "bought": 500,
+   "sku": null,
+   "brand": "GGG"
+ },
+ {
+   "customer_id": 20,
+   "package": "P20",
+   "design": 272,
+   "sold": 1484.93,
+   "payment": "mastercard",
+   "bought": 250,
+   "sku": null,
+   "brand": "NK"
+ },
+ {
+   "customer_id": 21,
+   "package": "P21",
+   "design": 961,
+   "sold": 2154.31,
+   "payment": "mastercard",
+   "bought": 250,
+   "sku": null,
+   "brand": "NK"
+ },
+ {
+   "customer_id": 22,
+   "package": "P22",
+   "design": 249,
+   "sold": 1843.72,
+   "payment": "mastercard",
+   "bought": 250,
+   "sku": null,
+   "brand": "NK"
+ },
+ {
+   "customer_id": 23,
+   "package": "P23",
+   "design": 879,
+   "sold": 839.93,
+   "payment": "mastercard",
+   "bought": 250,
+   "sku": null,
+   "brand": "NK"
+ },
+ {
+   "customer_id": 24,
+   "package": "P24",
+   "design": 661,
+   "sold": 596.08,
+   "payment": "mastercard",
+   "bought": 250,
+   "sku": null,
+   "brand": "NK"
+ },
+ {
+   "customer_id": 25,
+   "package": "P25",
+   "design": 454,
+   "sold": 37.19,
+   "payment": "mastercard",
+   "bought": 10.99,
+   "sku": 10006319,
+   "brand": ""
+ },
+ {
+   "customer_id": 26,
+   "package": "P26",
+   "design": 916,
+   "sold": 2140.07,
+   "payment": "mastercard",
+   "bought": 500,
+   "sku": null,
+   "brand": "GGG"
+ },
+ {
+   "customer_id": 27,
+   "package": "P27",
+   "design": 473,
+   "sold": 1275.53,
+   "payment": "mastercard",
+   "bought": 250,
+   "sku": null,
+   "brand": "NK"
+ },
+ {
+   "customer_id": 28,
+   "package": "P28",
+   "design": 931,
+   "sold": 2588.41,
+   "payment": "visa",
+   "bought": 250,
+   "sku": null,
+   "brand": "NK"
+ },
+ {
+   "customer_id": 29,
+   "package": "P29",
+   "design": 346,
+   "sold": 663.01,
+   "payment": "mastercard",
+   "bought": 250,
+   "sku": null,
+   "brand": "NK"
+ },
+ {
+   "customer_id": 30,
+   "package": "P30",
+   "design": 860,
+   "sold": 2479.19,
+   "payment": "mastercard",
+   "bought": 500,
+   "sku": null,
+   "brand": "GGG"
+ },
+ {
+   "customer_id": 31,
+   "package": "P31",
+   "design": 564,
+   "sold": 2847.29,
+   "payment": "mastercard",
+   "bought": 1000,
+   "sku": null,
+   "brand": "LVC"
+ },
+ {
+   "customer_id": 32,
+   "package": "P32",
+   "design": 479,
+   "sold": 1983.52,
+   "payment": "mastercard",
+   "bought": 500,
+   "sku": null,
+   "brand": "GGG"
+ },
+ {
+   "customer_id": 33,
+   "package": "P33",
+   "design": 827,
+   "sold": 439.9,
+   "payment": "mastercard",
+   "bought": 250,
+   "sku": null,
+   "brand": "NK"
+ },
+ {
+   "customer_id": 34,
+   "package": "P34",
+   "design": 423,
+   "sold": 2476.18,
+   "payment": "mastercard",
+   "bought": 250,
+   "sku": null,
+   "brand": "NK"
+ },
+ {
+   "customer_id": 35,
+   "package": "P35",
+   "design": 469,
+   "sold": 2537.93,
+   "payment": "mastercard",
+   "bought": 250,
+   "sku": null,
+   "brand": "NK"
+ },
+ {
+   "customer_id": 36,
+   "package": "P36",
+   "design": 515,
+   "sold": 2771.22,
+   "payment": "mastercard",
+   "bought": 250,
+   "sku": null,
+   "brand": "NK"
+ },
+ {
+   "customer_id": 37,
+   "package": "P37",
+   "design": 153,
+   "sold": 2751.36,
+   "payment": "mastercard",
+   "bought": 500,
+   "sku": null,
+   "brand": "GGG"
+ },
+ {
+   "customer_id": 38,
+   "package": "P38",
+   "design": 102,
+   "sold": 815.57,
+   "payment": "mastercard",
+   "bought": 250,
+   "sku": null,
+   "brand": "NK"
+ },
+ {
+   "customer_id": 39,
+   "package": "P39",
+   "design": 127,
+   "sold": 1939.43,
+   "payment": "mastercard",
+   "bought": 250,
+   "sku": null,
+   "brand": "NK"
+ },
+ {
+   "customer_id": 40,
+   "package": "P40",
+   "design": 749,
+   "sold": 63.65,
+   "payment": "mastercard",
+   "bought": 10.99,
+   "sku": 10006319,
+   "brand": ""
+ },
+ {
+   "customer_id": 41,
+   "package": "P41",
+   "design": 897,
+   "sold": 1207.62,
+   "payment": "mastercard",
+   "bought": 250,
+   "sku": null,
+   "brand": "NK"
+ },
+ {
+   "customer_id": 42,
+   "package": "P42",
+   "design": 603,
+   "sold": 1754.99,
+   "payment": "mastercard",
+   "bought": 250,
+   "sku": null,
+   "brand": "NK"
+ },
+ {
+   "customer_id": 43,
+   "package": "P43",
+   "design": 381,
+   "sold": 2011.21,
+   "payment": "mastercard",
+   "bought": 250,
+   "sku": null,
+   "brand": "NK"
+ },
+ {
+   "customer_id": 44,
+   "package": "P44",
+   "design": 909,
+   "sold": 760.22,
+   "payment": "mastercard",
+   "bought": 250,
+   "sku": null,
+   "brand": "NK"
+ },
+ {
+   "customer_id": 45,
+   "package": "P45",
+   "design": 557,
+   "sold": 2074.22,
+   "payment": "mastercard",
+   "bought": 250,
+   "sku": null,
+   "brand": "NK"
+ },
+ {
+   "customer_id": 46,
+   "package": "P46",
+   "design": 359,
+   "sold": 1831.16,
+   "payment": "mastercard",
+   "bought": 250,
+   "sku": null,
+   "brand": "NK"
+ },
+ {
+   "customer_id": 47,
+   "package": "P47",
+   "design": 589,
+   "sold": 2819.96,
+   "payment": "mastercard",
+   "bought": 500,
+   "sku": null,
+   "brand": "GGG"
+ },
+ {
+   "customer_id": 48,
+   "package": "P48",
+   "design": 785,
+   "sold": 1995.28,
+   "payment": "mastercard",
+   "bought": 250,
+   "sku": null,
+   "brand": "NK"
+ },
+ {
+   "customer_id": 49,
+   "package": "P49",
+   "design": 368,
+   "sold": 560.02,
+   "payment": "mastercard",
+   "bought": 250,
+   "sku": null,
+   "brand": "NK"
+ },
+ {
+   "customer_id": 50,
+   "package": "P50",
+   "design": 626,
+   "sold": 1432.66,
+   "payment": "mastercard",
+   "bought": 250,
+   "sku": null,
+   "brand": "NK"
+ },
+ {
+   "customer_id": 51,
+   "package": "P51",
+   "design": 178,
+   "sold": 2687.19,
+   "payment": "mastercard",
+   "bought": 500,
+   "sku": null,
+   "brand": "GGG"
+ },
+ {
+   "customer_id": 52,
+   "package": "P52",
+   "design": 648,
+   "sold": 1173.13,
+   "payment": "mastercard",
+   "bought": 250,
+   "sku": null,
+   "brand": "NK"
+ },
+ {
+   "customer_id": 53,
+   "package": "P53",
+   "design": 985,
+   "sold": 2553.77,
+   "payment": "mastercard",
+   "bought": 500,
+   "sku": null,
+   "brand": "GGG"
+ },
+ {
+   "customer_id": 54,
+   "package": "P54",
+   "design": 378,
+   "sold": 2467.52,
+   "payment": "visa",
+   "bought": 250,
+   "sku": null,
+   "brand": "NK"
+ },
+ {
+   "customer_id": 55,
+   "package": "P55",
+   "design": 175,
+   "sold": 604.01,
+   "payment": "mastercard",
+   "bought": 250,
+   "sku": null,
+   "brand": "NK"
+ },
+ {
+   "customer_id": 56,
+   "package": "P56",
+   "design": 773,
+   "sold": 649.81,
+   "payment": "mastercard",
+   "bought": 250,
+   "sku": null,
+   "brand": "NK"
+ },
+ {
+   "customer_id": 57,
+   "package": "P57",
+   "design": 569,
+   "sold": 2804.48,
+   "payment": "mastercard",
+   "bought": 500,
+   "sku": null,
+   "brand": "GGG"
+ },
+ {
+   "customer_id": 58,
+   "package": "P58",
+   "design": 455,
+   "sold": 1000.12,
+   "payment": "mastercard",
+   "bought": 250,
+   "sku": null,
+   "brand": "NK"
+ },
+ {
+   "customer_id": 59,
+   "package": "P59",
+   "design": 137,
+   "sold": 1689.1,
+   "payment": "mastercard",
+   "bought": 250,
+   "sku": null,
+   "brand": "NK"
+ },
+ {
+   "customer_id": 60,
+   "package": "P60",
+   "design": 540,
+   "sold": 1748.35,
+   "payment": "mastercard",
+   "bought": 250,
+   "sku": null,
+   "brand": "NK"
+ },
+ {
+   "customer_id": 61,
+   "package": "P61",
+   "design": 762,
+   "sold": 2413.32,
+   "payment": "mastercard",
+   "bought": 250,
+   "sku": null,
+   "brand": "NK"
+ },
+ {
+   "customer_id": 62,
+   "package": "P62",
+   "design": 152,
+   "sold": 2956.71,
+   "payment": "visa",
+   "bought": 1000,
+   "sku": null,
+   "brand": "LVC"
+ },
+ {
+   "customer_id": 63,
+   "package": "P63",
+   "design": 787,
+   "sold": 1385.89,
+   "payment": "mastercard",
+   "bought": 250,
+   "sku": null,
+   "brand": "NK"
+ },
+ {
+   "customer_id": 64,
+   "package": "P64",
+   "design": 323,
+   "sold": 1061.04,
+   "payment": "mastercard",
+   "bought": 250,
+   "sku": null,
+   "brand": "NK"
+ },
+ {
+   "customer_id": 65,
+   "package": "P65",
+   "design": 404,
+   "sold": 2993.22,
+   "payment": "mastercard",
+   "bought": 1000,
+   "sku": null,
+   "brand": "LVC"
+ },
+ {
+   "customer_id": 66,
+   "package": "P66",
+   "design": 165,
+   "sold": 2807,
+   "payment": "mastercard",
+   "bought": 250,
+   "sku": null,
+   "brand": "NK"
+ },
+ {
+   "customer_id": 67,
+   "package": "P67",
+   "design": 740,
+   "sold": 50.64,
+   "payment": "mastercard",
+   "bought": 10.99,
+   "sku": 10006319,
+   "brand": ""
+ },
+ {
+   "customer_id": 68,
+   "package": "P68",
+   "design": 334,
+   "sold": 384.91,
+   "payment": "mastercard",
+   "bought": 250,
+   "sku": null,
+   "brand": "NK"
+ },
+ {
+   "customer_id": 69,
+   "package": "P69",
+   "design": 958,
+   "sold": 948.79,
+   "payment": "mastercard",
+   "bought": 250,
+   "sku": null,
+   "brand": "NK"
+ },
+ {
+   "customer_id": 70,
+   "package": "P70",
+   "design": 240,
+   "sold": 2333.52,
+   "payment": "mastercard",
+   "bought": 500,
+   "sku": null,
+   "brand": "GGG"
+ },
+ {
+   "customer_id": 71,
+   "package": "P71",
+   "design": 775,
+   "sold": 2329.78,
+   "payment": "mastercard",
+   "bought": 250,
+   "sku": null,
+   "brand": "NK"
+ },
+ {
+   "customer_id": 72,
+   "package": "P72",
+   "design": 895,
+   "sold": 2565.2,
+   "payment": "mastercard",
+   "bought": 500,
+   "sku": null,
+   "brand": "GGG"
+ },
+ {
+   "customer_id": 73,
+   "package": "P73",
+   "design": 709,
+   "sold": 1336.05,
+   "payment": "mastercard",
+   "bought": 250,
+   "sku": null,
+   "brand": "NK"
+ },
+ {
+   "customer_id": 74,
+   "package": "P74",
+   "design": 808,
+   "sold": 959.13,
+   "payment": "mastercard",
+   "bought": 250,
+   "sku": null,
+   "brand": "NK"
+ },
+ {
+   "customer_id": 75,
+   "package": "P75",
+   "design": 261,
+   "sold": 2595.36,
+   "payment": "mastercard",
+   "bought": 500,
+   "sku": null,
+   "brand": "GGG"
+ },
+ {
+   "customer_id": 76,
+   "package": "P76",
+   "design": 436,
+   "sold": 227.95,
+   "payment": "mastercard",
+   "bought": 50.23,
+   "sku": 11003234,
+   "brand": ""
+ },
+ {
+   "customer_id": 77,
+   "package": "P77",
+   "design": 118,
+   "sold": 2398.94,
+   "payment": "mastercard",
+   "bought": 500,
+   "sku": null,
+   "brand": "GGG"
+ },
+ {
+   "customer_id": 78,
+   "package": "P78",
+   "design": 369,
+   "sold": 2965.18,
+   "payment": "mastercard",
+   "bought": 1000,
+   "sku": null,
+   "brand": "LVC"
+ },
+ {
+   "customer_id": 79,
+   "package": "P79",
+   "design": 203,
+   "sold": 999.56,
+   "payment": "mastercard",
+   "bought": 250,
+   "sku": null,
+   "brand": "NK"
+ },
+ {
+   "customer_id": 80,
+   "package": "P80",
+   "design": 799,
+   "sold": 264.05,
+   "payment": "visa",
+   "bought": 250,
+   "sku": null,
+   "brand": "NK"
+ },
+ {
+   "customer_id": 81,
+   "package": "P81",
+   "design": 348,
+   "sold": 698.82,
+   "payment": "mastercard",
+   "bought": 250,
+   "sku": null,
+   "brand": "NK"
+ },
+ {
+   "customer_id": 82,
+   "package": "P82",
+   "design": 602,
+   "sold": 509.2,
+   "payment": "mastercard",
+   "bought": 250,
+   "sku": null,
+   "brand": "NK"
+ },
+ {
+   "customer_id": 83,
+   "package": "P83",
+   "design": 605,
+   "sold": 1483.69,
+   "payment": "mastercard",
+   "bought": 250,
+   "sku": null,
+   "brand": "NK"
+ },
+ {
+   "customer_id": 84,
+   "package": "P84",
+   "design": 389,
+   "sold": 877.86,
+   "payment": "mastercard",
+   "bought": 250,
+   "sku": null,
+   "brand": "NK"
+ },
+ {
+   "customer_id": 85,
+   "package": "P85",
+   "design": 113,
+   "sold": 2064.23,
+   "payment": "mastercard",
+   "bought": 250,
+   "sku": null,
+   "brand": "NK"
+ },
+ {
+   "customer_id": 86,
+   "package": "P86",
+   "design": 539,
+   "sold": 2985.24,
+   "payment": "visa",
+   "bought": 1000,
+   "sku": null,
+   "brand": "LVC"
+ },
+ {
+   "customer_id": 87,
+   "package": "P87",
+   "design": 980,
+   "sold": 1373.74,
+   "payment": "mastercard",
+   "bought": 250,
+   "sku": null,
+   "brand": "NK"
+ },
+ {
+   "customer_id": 88,
+   "package": "P88",
+   "design": 766,
+   "sold": 2312.97,
+   "payment": "mastercard",
+   "bought": 500,
+   "sku": null,
+   "brand": "GGG"
+ },
+ {
+   "customer_id": 89,
+   "package": "P89",
+   "design": 883,
+   "sold": 106.53,
+   "payment": "mastercard",
+   "bought": 31.23,
+   "sku": 11009653,
+   "brand": ""
+ },
+ {
+   "customer_id": 90,
+   "package": "P90",
+   "design": 466,
+   "sold": 1584.43,
+   "payment": "mastercard",
+   "bought": 250,
+   "sku": null,
+   "brand": "NK"
+ },
+ {
+   "customer_id": 91,
+   "package": "P91",
+   "design": 756,
+   "sold": 132.39,
+   "payment": "mastercard",
+   "bought": 50.23,
+   "sku": 11003234,
+   "brand": ""
+ },
+ {
+   "customer_id": 92,
+   "package": "P92",
+   "design": 457,
+   "sold": 1136.04,
+   "payment": "mastercard",
+   "bought": 500,
+   "sku": null,
+   "brand": "NK"
+ },
+ {
+   "customer_id": 93,
+   "package": "P93",
+   "design": 838,
+   "sold": 52.56,
+   "payment": "visa",
+   "bought": 10.99,
+   "sku": 10006319,
+   "brand": ""
+ },
+ {
+   "customer_id": 94,
+   "package": "P94",
+   "design": 936,
+   "sold": 132.34,
+   "payment": "mastercard",
+   "bought": 50.23,
+   "sku": 11003234,
+   "brand": ""
+ },
+ {
+   "customer_id": 95,
+   "package": "P95",
+   "design": 645,
+   "sold": 2195.64,
+   "payment": "mastercard",
+   "bought": 250,
+   "sku": null,
+   "brand": "NK"
+ },
+ {
+   "customer_id": 96,
+   "package": "P96",
+   "design": 376,
+   "sold": 1275.94,
+   "payment": "mastercard",
+   "bought": 250,
+   "sku": null,
+   "brand": "NK"
+ },
+ {
+   "customer_id": 97,
+   "package": "P97",
+   "design": 289,
+   "sold": 899.91,
+   "payment": "mastercard",
+   "bought": 250,
+   "sku": null,
+   "brand": "NK"
+ },
+ {
+   "customer_id": 98,
+   "package": "P98",
+   "design": 831,
+   "sold": 1071.91,
+   "payment": "mastercard",
+   "bought": 250,
+   "sku": null,
+   "brand": "NK"
+ },
+ {
+   "customer_id": 99,
+   "package": "P99",
+   "design": 214,
+   "sold": 1236.24,
+   "payment": "mastercard",
+   "bought": 250,
+   "sku": null,
+   "brand": "NK"
+ },
+ {
+   "customer_id": 100,
+   "package": "P100",
+   "design": 301,
+   "sold": 2566.11,
+   "payment": "visa",
+   "bought": 500,
+   "sku": null,
+   "brand": "GGG"
+ }
+]

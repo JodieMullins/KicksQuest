@@ -9,7 +9,7 @@ The idea is based upon a custom shoe design company that profits from hand-desig
 ### Features Included
 
 1. Examine 3+ data files and file formats (easy);  establish local database and read data in with SQLite (hard)
-2. Clean data / perform pandas merge with 2+ datasets / calculate new values (intermediate)
+2. Clean data / perform pandas merge with 2+ datasets, calculate new values (intermediate)
 3. Make 3+ matplotlib visualizations (easy); Tableau dashboard (intermediate)
 4. Virtual Environment & Instructions included in README below (intermediate); .gitignore file included; 5+ distinct commits
 5. Annotation with markdown in Jupyter Notebook & well-documented code (intermediate)

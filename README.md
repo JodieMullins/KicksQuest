@@ -48,12 +48,6 @@ If you choose the method of opening in **VS Code**:
 9. Type >`jupyter notebook`
     * Eventually, a default browser window will open. From here, you may upload the project notebook from the project folder into the Jupyter instance established. 
 
-If you choose to open the repository in **VS Code**:
-
-**AND** are establishing a virtual environment for the Jupyter Notebook:
-
-1. 
-
 
 ***If you wish to proceed in VS Code***:
 -------------------------------------------
@@ -85,4 +79,3 @@ If you choose to open the repository in **VS Code**:
 4) Once done with the Jupyter notebook, remember to select the 'Home' tab, then 'Running' to click 'Shut Down All' and 'X' out of all tabs.
 
 --------------------------------------------
-

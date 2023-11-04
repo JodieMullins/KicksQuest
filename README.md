@@ -16,18 +16,30 @@ The idea is based upon a custom shoe design company that profits from hand-desig
 
 --------------------------------------------------------------------------------------------------------------
 
+### To Run Project:
+
+1. Clone KicksQuest repository to local machine (manually or via  **VS Code**)
+2. If not using a virtual environment:
+    * Open Folder using **VS Code**.
+    * Select *KicksQuest_Notebook*.ipynb document from the Explorer side panel
+    * May choose to "Run All" when viewing the notebook in the editing window **OR** 'Run and Debug' (the bug on an assumed triangle) option from the left-hand Explorer panel
+    * Alternatively to running all of the cells at once, user may run each cell individually if desired as well by selecting the sideways triange icon beside each input square.
+
+
+--------------------------------------------------------------------------------------------------------------
+
 ## Virtual Environment
 
-This project was written in Python Version 3.10 with an update to 3.12; on the same system exists Anaconda Version 3.11. You may open a conda environment, but these instructions assume the user only has Python 3.10+ installed and will be using the VS Code Python Extension.
+This project was written in Python Version 3.10 with an update to 3.12; on the same system exists Anaconda Version 3.11. User may open a conda environment, but these instructions assume the user only has Python 3.10+ installed and will be using the VS Code Python Extension.
 
-When one opens the primary file that is the Jupyter Notebook (*KicksQuest_Notebook*.ipynb), the first block includes all libraries necessary to run my project. If your computer system contains similiarly updated libraries, you may possibly run the files here without a virtual environment successfully. 
+When one opens the primary file that is the Jupyter Notebook (*KicksQuest_Notebook*.ipynb), the first block includes all libraries necessary to run my project. If the user's computer system contains similiarly updated libraries, one may possibly run the files here without a virtual environment successfully. 
 
-However, in any case, the necessary libraries have been documented in the requirements.txt. Given that the versions of the libraries I used to create my project on my system may not exactly be the same as the libraries installed on someone else's computer system, I have opted to include Virtual Environment instructions as follows: 
+However, in any case, the necessary libraries have been documented in the requirements.txt. Given that the versions of the libraries I used to create my project on my system may not exactly be the same as the libraries installed on someone else's computer, I have opted to include Virtual Environment instructions as follows: 
 
-Clone the repository from GitHub to your local machine / AKA download a local copy of the files from online to your computer. This is because you will need to establish and activate your own virtual environment within the project folder.
+Ensure the repository has been cloned from GitHub to the local machine / AKA download a local copy of the files from online to user's computer. This is because the user will need to establish and activate one's own virtual environment within the project folder.
 
 
-If you choose the method of opening in **VS Code**:
+If choosing the method of opening in **VS Code**:
 
 1. First, open a clean, new file in VS Code.
 2. Open the terminal window
@@ -35,7 +47,7 @@ If you choose the method of opening in **VS Code**:
     * Half-way down / towards the bottom of the input area to find the Terminal Window
 
 3. Type >`cd 'C:file\path\to find\project\folder'`
-      * Note: instead of typing out the whole line, you may copy and paste the file path from the address bar inside the opened project folder
+      * Note: instead of typing out the whole line, user may copy and paste the file path from the address bar inside the opened project folder
 
 4. To establish a virtual environment folder, type >`python -m venv venv`
     * (where the second venv is the name of the folder for the environment)
@@ -43,16 +55,16 @@ If you choose the method of opening in **VS Code**:
     * **WINDOWS** *PowerShell* >`<venv>\scripts\activate`
     * **WINDOWS** *cmd* >`<venv>\Scripts\activate.bat`
     *  **LINUX** *bash/zsh* $`source <venv>/bin/activate`
-6. A new, colorful text will appear in front of the file path displaying that you've successfully activated the environment. 
+6. A new, colorful text will appear in front of the file path meaning the user has successfully activated the environment. 
 
 7. Type >`pip install jupyter`
      * This will likely take a moment.
 8. Type >`pip install -r requirements.txt`
 9. Type >`jupyter notebook`
-    * Eventually, a default browser window will open. From here, you may upload the project notebook from the project folder into the Jupyter instance established. 
+    * Eventually, a default browser window will open. From here, the user may upload the project notebook from the project folder into the Jupyter instance established. 
 
 
-***If you wish to proceed in VS Code***:
+***To proceed in VS Code***:
 -------------------------------------------
 
 1) Return to VS Code and press on the Keyboard `Ctrl+Shift+P`
@@ -61,12 +73,12 @@ If you choose the method of opening in **VS Code**:
 
 2) In the very top bar of VS Code, type `Python: Select Interpreter` and press enter
 
-3) Here, you will be given a range of environments to choose from. Choose 'venv' from this drop-down menu to operate within the virtual environment established.
+3) Here, the user will be given a range of environments to choose from. Choose 'venv' from this drop-down menu to operate within the virtual environment established.
 
-4) You may 'Run' all cells of the notebook and exit when ready.
+4) The user may 'Run' all cells of the notebook and exit when ready.
 
 
-***If you want to proceed in the browser***: 
+***To proceed in the browser***: 
 ---------------------------------------------
 
 1) Click the box next to the notebook's name for a checkmark and locate the 'Open' option under the 'Files' tab.

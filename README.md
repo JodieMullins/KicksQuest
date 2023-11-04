@@ -24,6 +24,9 @@ When one opens the primary file that is the Jupyter Notebook (*KicksQuest_Notebo
 
 However, in any case, the necessary libraries have been documented in the requirements.txt. Given that the versions of the libraries I used to create my project on my system may not exactly be the same as the libraries installed on someone else's computer system, I have opted to include Virtual Environment instructions as follows: 
 
+Clone the repository from GitHub to your local machine / AKA download a local copy of the files from online to your computer. This is because you will need to establish and activate your own virtual environment within the project folder.
+
+
 If you choose the method of opening in **VS Code**:
 
 1. First, open a clean, new file in VS Code.

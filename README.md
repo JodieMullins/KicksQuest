@@ -20,4 +20,10 @@ The idea is based upon a custom shoe design company that profits from hand-desig
 
 When one opens the primary file that is the Jupyter Notebook (*KicksQuest_Notebook*.ipynb), the first block includes all libraries necessary to run my project. These libraries have been documented in the requirements.txt located in the project's dedicated 'req' folder. Given that the versions of the libraries I used to create my project on my system may not exactly be the same as the libraries installed on someone else's computer system, I have opted to include Virtual Environment instructions as follows: 
 
+If you choose to open the repository in **VS Code**:
+
+**AND** are establishing a virtual environment for the Jupyter Notebook:
+
+1. 
+
 

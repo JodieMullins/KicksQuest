@@ -25,6 +25,8 @@ The idea is based upon a custom shoe design company that profits from hand-desig
     * To automatically execute all the cells in the Jupyter Notebook, click "Run All" when viewing the notebook in the editing window **OR** 'Run and Debug' (the bug on an assumed triangle) option from the left-hand Explorer panel.
     * Alternatively to running all of the cells at once, the user may run each cell individually by selecting the sideways triangle icon beside each input square.
 
+Note: I also have a [Demo repo](https://github.com/JodieMullins/CY-Demo) available for a general idea of the output this Capstone project will produce for those that would like to see what this project does without cloning it or running any code at all.
+
 
 --------------------------------------------------------------------------------------------------------------
 

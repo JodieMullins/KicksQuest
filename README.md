@@ -21,9 +21,9 @@ The idea is based upon a custom shoe design company that profits from hand-desig
 1. Clone KicksQuest repository to local machine (manually or via  **VS Code**)
 2. If not using a virtual environment:
     * Open Folder using **VS Code**.
-    * Select *KicksQuest_Notebook*.ipynb document from the Explorer side panel
-    * May choose to "Run All" when viewing the notebook in the editing window **OR** 'Run and Debug' (the bug on an assumed triangle) option from the left-hand Explorer panel
-    * Alternatively to running all of the cells at once, the user may run each cell individually if desired as well by selecting the sideways triangle icon beside each input square.
+    * Select the *KicksQuest_Notebook*.ipynb document from the Explorer side panel.
+    * To automatically execute all the cells in the Jupyter Notebook, click "Run All" when viewing the notebook in the editing window **OR** 'Run and Debug' (the bug on an assumed triangle) option from the left-hand Explorer panel.
+    * Alternatively to running all of the cells at once, the user may run each cell individually by selecting the sideways triangle icon beside each input square.
 
 
 --------------------------------------------------------------------------------------------------------------

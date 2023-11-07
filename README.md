@@ -1,4 +1,4 @@
-# Kicks Quest - A Capstone Project
+# Kicks Quest - A Keystone Project
 
 This repository holds an examination of a small business over the course of approximately three years. All data has been created using Mockaroo.com and Google Sheets, as well as some csv-json conversion websites. The data does not reflect real people or events and is curated for the use of this particular project and specific operations performed therein to complete the requirements of Code:You's Module 4 Capstone for the May 2023 Data Analysis cohort.  
 

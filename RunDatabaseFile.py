@@ -86,6 +86,8 @@ click.execute('''CREATE TABLE delivery (
 )''')
 
 # use delivery csv to provide information held in a variable
+# with statement automatically closes file
+# written using somewhat pathlib syntax without lib install
 with open(r'docs/delivery.csv', 'r') as file:
     delivery_sheet = csv.DictReader(file)
     data_delivery = [(i['package'],

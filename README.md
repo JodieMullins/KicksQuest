@@ -4,7 +4,7 @@ This repository holds an examination of a small business over the course of appr
 
 The idea is based upon a custom shoe design company that profits from hand-designing originally plain pairs of high-quality shoes. Sometimes this company also sells handmade adornment pieces to display upon a pair of shoes rather than a whole new pair. 
 
-The data specifically examines profitability of all years in business with a special interest in determining a general yet logical storefront location. Results of the data include items such as an email list, a profit statement by state, a folder of graphs/charts, and a logical implication for a general location of a future storefront.
+The data specifically examines profitability of all years in business with a special interest in determining a general yet logical storefront location. Results of the data include items such as an email list, a profit statement by state, folder of graphs/charts, and logical implication for a general location of a future storefront.
 
 --------------------------------------------------------------------------------------------------------------
 
@@ -22,7 +22,7 @@ The data specifically examines profitability of all years in business with a spe
 
 1. Clone KicksQuest repository to local machine (manually or via  **VS Code**)
 2. If not using a virtual environment:
-    * Open Folder using **VS Code**.
+    * Open project folder using **VS Code**.
     * Select the *KicksQuest_Notebook*.ipynb document from the Explorer side panel.
     * To automatically execute all the cells in the Jupyter Notebook, click "Run All" when viewing the notebook in the editing window **OR** 'Run and Debug' (the bug on an assumed triangle) option from the left-hand Explorer panel.
     * Alternatively to running all of the cells at once, the user may run each cell individually by selecting the sideways triangle icon beside each input square.

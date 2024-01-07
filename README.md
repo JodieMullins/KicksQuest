@@ -4,7 +4,7 @@ This repository holds an examination of a small business over the course of appr
 
 The idea is based upon a custom shoe design company that profits from hand-designing originally plain pairs of high-quality shoes. Sometimes this company also sells handmade adornment pieces to display upon a pair of shoes rather than a whole new pair. 
 
-The data specifically examines profitability of all years in business with a special interest in determining a general yet logical storefront location. Results of the data include items such as an email list, a profit statement by state, folder of graphs/charts, and logical implication for a general location of a future storefront.
+The data specifically examines profitability of all years in business with a special interest in determining a general yet logical storefront location. Results of the data include items such as an email list, a profit statement by state, folder of graphs/charts, and an interactive dashboard conataining insight for a general location of a future storefront.
 
 --------------------------------------------------------------------------------------------------------------
 

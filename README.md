@@ -2,9 +2,9 @@
 
 This repository holds an examination of a small business over the course of approximately three years. All data has been created using Mockaroo.com and Google Sheets, as well as some csv-json conversion websites. The data does not reflect real people or events and is curated for the use of this particular project and specific operations performed therein to complete the requirements of Code:You's Module 4 Capstone for the May 2023 Data Analysis cohort.  
 
-The idea is based upon a custom shoe design company that profits from hand-designing originally plain pairs of high-quality shoes. Sometimes this company also sells handmade adornment pieces to display upon a pair of shoes rather than a whole new pair. 
+The idea is based upon a custom shoe design company that profits from hand-designing originally plain pairs of high-quality shoes. Sometimes this company also sells handmade adornment pieces (shoe charms) to display upon a pair of shoes rather than a whole new pair. 
 
-The data specifically examines profitability of all years in business with a special interest in determining a general yet logical storefront location. Results of the data include items such as an email list, a profit statement by state, folder of graphs/charts, and an interactive dashboard conataining insight for a general location of a future storefront.
+The data specifically examines profitability of all years in business with a special interest in determining a general yet logical storefront location. Results of the data include items such as an email list, a profit statement by state, folder of graphs/charts, and an interactive dashboard containing insight for a general location of a future storefront.
 
 --------------------------------------------------------------------------------------------------------------
 
